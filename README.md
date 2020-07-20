@@ -52,7 +52,7 @@ php bin/magento setup:static-content:deploy
 
 ![Optimize multiple types of images](https://i.imgur.com/xXd6u8v.png)
 
-With Magento 2 Image Optimizer, various types of images such as PNG, JPG, and GIF can be compressed easily by the store admins. These three image types are the most common formats which are used by thousands of online stores to upload the pictures of their products and services. With compressed image size, you will be able to better your store site’s performance. 
+With Magento 2 Image Optimizer, various types of images **of less than 5MB** such as PNG, JPG, and GIF can be compressed easily by the store admins. These three image types are the most common formats which are used by thousands of online stores to upload the pictures of their products and services. With compressed image size, you will be able to better your store site’s performance. 
 
 ### Control image quality: lossless or lossy
 
